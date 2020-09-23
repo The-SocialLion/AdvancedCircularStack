@@ -1,0 +1,42 @@
+enter limit5
+1.Push_top,2.Push_bottom,3.pop_top
+4.pop_bottom, 5.peek,6.display,7.exit
+enter your choice1
+enter element23
+1.Push_top,2.Push_bottom,3.pop_top
+4.pop_bottom, 5.peek,6.display,7.exit
+enter your choice1
+enter element54
+1.Push_top,2.Push_bottom,3.pop_top
+4.pop_bottom, 5.peek,6.display,7.exit
+enter your choice1
+enter element78
+1.Push_top,2.Push_bottom,3.pop_top
+4.pop_bottom, 5.peek,6.display,7.exit
+enter your choice2
+enter position0
+enter element45
+1.Push_top,2.Push_bottom,3.pop_top
+4.pop_bottom, 5.peek,6.display,7.exit
+enter your choice2
+enter position5
+enter element70
+1.Push_top,2.Push_bottom,3.pop_top
+4.pop_bottom, 5.peek,6.display,7.exit
+enter your choice2
+enter position34
+enter element0
+circular stack overflow
+1.Push_top,2.Push_bottom,3.pop_top
+4.pop_bottom, 5.peek,6.display,7.exit
+enter your choice6
+45 23 54 78 70 
+1.Push_top,2.Push_bottom,3.pop_top
+4.pop_bottom, 5.peek,6.display,7.exit
+enter your choice3
+70
+1.Push_top,2.Push_bottom,3.pop_top
+4.pop_bottom, 5.peek,6.display,7.exit
+enter your choice4
+enter position0
+45
